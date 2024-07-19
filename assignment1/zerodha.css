@@ -1,0 +1,270 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a:hover{
+    color: black;
+}
+
+.sign{
+    background-color: rgba(56,126,209,255);
+    color: white;
+    width: 12%;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 4px;
+}
+
+.hh{
+    font-size: 300%;
+    color: rgb(66, 66, 66);
+    font-family: sans-serif;
+    padding-bottom: 2px;
+    padding-top: 10px;
+    height: 20px;
+    font-weight: 100;
+    line-height: 1.8;
+}
+
+.hh2{
+    color: rgb(77, 76, 76);
+    font-family: sans-serif;
+    font-size: 135%;
+    padding-top: 2px;
+    line-height: 1.8;
+
+}
+
+#navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    padding-top: 10px;
+    display: flexbox;
+    box-shadow: 2px 1px rgb(243, 243, 243);
+    padding-bottom: 10px;
+}
+
+#navbar img{
+    margin: 10px 20px 10px 200px;
+
+}
+
+#navbar span{
+    margin: 0px 20px 10px 500px;
+    display: flexbox;
+    padding-bottom: 10px;
+}
+
+#navbar a{
+    text-decoration: none;
+    color: rgb(120, 120, 120);
+    margin-right: 40px;
+    padding-bottom: 10px;
+}
+
+#navbar a:hover{
+    color: rgba(56,126,209,255);
+}
+
+.nav{
+    color: rgb(120, 120, 120);
+    font-family: sans-serif;
+    font-size: 15px;
+    padding: 0px 0px 20px 0px;
+}
+
+.D1{
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.d1{
+    float: left;
+    size: 45%;
+    margin-left: 9%;
+}
+
+.dd1{
+    width: 80%;
+}
+
+.d2{
+    text-align: left;
+    size: 45%;
+    padding: 10px;
+    line-height: 1.8;
+    
+}
+
+.dd2{
+    font-size: medium;
+    font-family: sans-serif;
+    color: rgb(66, 66, 66);
+    line-height: 1.8;
+}
+
+.dd3{
+    padding-left: 0;
+    font-family: sans-serif;
+    color: rgb(81, 81, 81);
+    font-size: medium;
+    width: 250px;
+    line-height: 1.8;
+}
+
+li{
+    padding: 5px;
+    padding-left: 0;
+    line-height: 1.8;
+}
+
+.e1{
+    text-align: left;
+    float: left;
+    padding: 10px;
+    padding-right: 20px;
+    margin-left: 13%;
+    width: 30%;
+    line-height: 1.8;
+}
+.e1 a{
+    color:rgba(56,126,209,255);
+    text-decoration: none;
+    font-weight: 200;
+}
+
+.e1 a:hover{
+    color: black;
+}
+
+
+
+.e2{
+    font-size: 20px;
+}
+
+.e2 a{
+    color:rgba(56,126,209,255);
+    text-decoration: none;
+}
+
+.e2 a:hover{
+    color: black;
+}
+
+.F1{
+
+    display: flexbox;
+}
+
+.f1{
+    text-align: left;
+    font-size: 103%;
+    float: left;
+    padding: 10px;
+    padding-right: 20px;
+    margin-left: 16%;
+    width: 30%;
+    margin-top: 50px;
+    line-height: 1.8;
+
+    
+}
+
+.f1 h1{
+    font-family: sans-serif;
+    color: rgb(66, 66, 66);
+    font-size: 225%;
+    font-weight: 200;
+    line-height: 1.8;
+}
+
+.f1 a{
+    color:rgba(56,126,209,255);
+    text-decoration: none;
+    line-height: 1.8;
+}
+
+.f1 a:hover{
+    color: black;
+}
+
+.f2{
+    float: right;
+    width: 40%;
+    margin: 70px 50px 1px 1px;
+    margin-left: 1px;
+    margin-top: 70px;
+    padding: 1px;    
+}
+
+
+.f1 p{
+    color: rgb(81, 81, 81);
+    font-family: sans-serif;
+    font-size: 110%;
+    line-height: 1.8;
+}
+
+.g1{
+    float: left;
+    width: 40%;
+    margin: 40px 1px 10px 170px;
+}
+
+.g2{
+    float: right;
+    text-align: left;
+    width: 35%;
+    margin: 120px 100px 10px 1px;
+}
+
+.g2 h1{
+    font-family: sans-serif;
+    color: rgb(66, 66, 66);
+    font-size: 150%;
+    font-weight: 200;
+    line-height: 1.8;
+}
+
+.g2 p{
+    color: rgb(81, 81, 81);
+    font-family: sans-serif;
+    font-size: 100%;
+    line-height: 1.8;
+}
+
+.g2 a{
+    color:rgba(56,126,209,255);
+    text-decoration: none;
+    line-height: 1.0;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+.g2 a:hover{
+    color: black;
+}
+
+.H{
+    width: 100%;
+    display: block;
+}
+
+footer div a{
+    color: rgb(81, 81, 81);
+    text-decoration: none;
+    font-size: large;
+    padding-bottom: 10px;
+    
+}
+
+.xx{
+    font-size: larger;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+}
